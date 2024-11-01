@@ -102,7 +102,7 @@ h4 {
 
 
 .home {
-    background: linear-gradient(to top, #00040b, #00040bbb), url(./assets/header.avif);
+    background: linear-gradient(to top, #00040b, #00040bbb), url(./header.avif);
     background-repeat: no-repeat;
     background-position: top right;
     background-size: cover;
@@ -128,7 +128,7 @@ h4 {
     letter-spacing: 4px;
     text-transform: uppercase;
     font-weight: 500;
-    background-image: url(./assets/ox.jpg);
+    background-image: url(./ox.jpg);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     -webkit-text-stroke: 1px #fff;
